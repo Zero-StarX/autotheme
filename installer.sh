@@ -22,8 +22,8 @@ echo -e "${C_CYAN}==============================================${C_RESET}"
 echo -e "  ${C_GREEN}Pterodactyl Auto Installer${C_RESET}"
 echo -e "  ${C_YELLOW}Owner : Zero-StarX${C_RESET}"
 echo -e "${C_CYAN}==============================================${C_RESET}"
-echo -e "  WA    : 6285179836603"
-echo -e "  YT    : YASSxOFC"
+echo -e "  WA    : 628xxx"
+echo -e "  YT    : -"
 echo ""
 
 # --- FUNGSI ---
